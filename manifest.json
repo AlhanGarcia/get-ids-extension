@@ -1,0 +1,7 @@
+{
+  "name": "Get Ids",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A sidebar pane in the elements panel that displays IDs in the present webpage",
+  "devtools_page": "devtools.html"
+}
